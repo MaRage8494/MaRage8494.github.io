@@ -111,7 +111,7 @@ main{
 .peep:hover ~ .video_title{
     opacity: 1;
 }
-@media (max-width: 1150px){
+@media (max-width: 1200px){
     .hits{
         flex-direction: column;
     }
