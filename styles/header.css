@@ -130,7 +130,7 @@ header{
 .fourth{
     top: 48px;
 }
-@media (max-width: 820px){
+@media (max-width: 890px){
     .lab{
         display: block;
     }
