@@ -49,7 +49,7 @@ h2{
 .classic{
     margin-top: 70px
 }
-@media (max-width: 1150px){
+@media (max-width: 1200px){
     .releases{
         flex-wrap: wrap;
     }
